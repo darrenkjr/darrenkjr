@@ -42,7 +42,7 @@ Comprehensive analysis assessing the coverage of major academic databases (PubMe
 - **Paper**: https://www.sciencedirect.com/science/article/pii/S0895435625001222 
 
 
-### 🔄 **Single Database Evidence Retrieval Workflows for Living Guideline Devlepment and Maintenance**
+### 🔄 **Single Database Evidence Retrieval Workflows for Living Guideline Development and Maintenance**
 Simulation study on automated evidence surveillance with AI-enabled ranking for maintaining living clinical guidelines.
 - **Tech**: Python, PostgreSQL, R
 - **Focus**: living guidelines, comparative workflow analysis, vector search / ranking
