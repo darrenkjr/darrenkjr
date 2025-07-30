@@ -14,8 +14,6 @@ My work bridges computational methods, implementation science, and a sprinkling 
 
 I maintain the computational stuff here. 
 
----
-
 ## 📚 Systematic Review Automation (Search)
 
 ### 🔍 **Automated Citation Searching in Systematic Review Production**
